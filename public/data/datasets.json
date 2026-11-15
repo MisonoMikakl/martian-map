@@ -1,0 +1,42 @@
+[
+  {
+    "name": "HiRISE DTM DTEEC_001488_1750_001752_1750_U02",
+    "url": "https://astrogeo-ard.s3-us-west-2.amazonaws.com/mars/mro/hirise/controlled/dtm/PSP_001488_1750_PSP_001752_1750/DTEEC_001488_1750_001752_1750_U02.tif",
+    "role": "高程、坡度、粗糙度、路线代价与障碍推导",
+    "layers": [
+      "hillshade",
+      "slope",
+      "hazard",
+      "route",
+      "envelope"
+    ]
+  },
+  {
+    "name": "HiRISE PSP_001752_1750 正射影像",
+    "url": "https://astrogeo-ard.s3-us-west-2.amazonaws.com/mars/mro/hirise/controlled/dtm/PSP_001488_1750_PSP_001752_1750/PSP_001752_1750_RED_A_01_ORTHO.tif",
+    "role": "局部底图与深色沙场识别",
+    "layers": [
+      "ortho",
+      "hazard",
+      "geology"
+    ]
+  },
+  {
+    "name": "THEMIS mc23_aeolis_dir 昼间热红外拼接",
+    "url": "https://astrogeo-ard.s3.us-west-2.amazonaws.com/mars/mo/themis/controlled_mosaics/mc23_aeolis_dir/mc23_aeolis_dir.tif",
+    "role": "定性亮温反转图层；不是定标热惯量",
+    "layers": [
+      "thermal"
+    ]
+  },
+  {
+    "name": "Curiosity RAD 辐射参考",
+    "url": "https://ntrs.nasa.gov/api/citations/20250004252/downloads/Book%20Chapter.pdf?attachment=true",
+    "role": "约 0.7 mSv/日的地表背景参考；非实时数据"
+  },
+  {
+    "name": "NASA/JPL Curiosity Boxwork 科学介绍",
+    "url": "https://www.jpl.nasa.gov/news/nasas-curiosity-mars-rover-starts-unpacking-boxwork-formations/",
+    "role": "科学目标的地质背景"
+  }
+]

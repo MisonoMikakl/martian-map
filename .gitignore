@@ -1,0 +1,7 @@
+node_modules/
+dist/
+# A 的计算用文件只给 Python 用，不部署
+work/
+*.log
+.DS_Store
+*.zip

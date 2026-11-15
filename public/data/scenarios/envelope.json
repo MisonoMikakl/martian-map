@@ -1,0 +1,320 @@
+{
+  "generated_by": "scripts/make-envelope-frames.mjs",
+  "step_min": 10,
+  "frames": {
+    "nominal": [
+      {
+        "t_min": 0,
+        "png": "envelope/nominal_0000.png"
+      },
+      {
+        "t_min": 10,
+        "png": "envelope/nominal_0100.png"
+      },
+      {
+        "t_min": 20,
+        "png": "envelope/nominal_0200.png"
+      },
+      {
+        "t_min": 30,
+        "png": "envelope/nominal_0300.png"
+      },
+      {
+        "t_min": 40,
+        "png": "envelope/nominal_0400.png"
+      },
+      {
+        "t_min": 50,
+        "png": "envelope/nominal_0500.png"
+      },
+      {
+        "t_min": 60,
+        "png": "envelope/nominal_0600.png"
+      },
+      {
+        "t_min": 70,
+        "png": "envelope/nominal_0700.png"
+      },
+      {
+        "t_min": 80,
+        "png": "envelope/nominal_0800.png"
+      },
+      {
+        "t_min": 90,
+        "png": "envelope/nominal_0900.png"
+      },
+      {
+        "t_min": 100,
+        "png": "envelope/nominal_1000.png"
+      },
+      {
+        "t_min": 110,
+        "png": "envelope/nominal_1100.png"
+      },
+      {
+        "t_min": 120,
+        "png": "envelope/nominal_1200.png"
+      },
+      {
+        "t_min": 130,
+        "png": "envelope/nominal_1300.png"
+      },
+      {
+        "t_min": 140,
+        "png": "envelope/nominal_1400.png"
+      },
+      {
+        "t_min": 150,
+        "png": "envelope/nominal_1500.png"
+      },
+      {
+        "t_min": 160,
+        "png": "envelope/nominal_1600.png"
+      },
+      {
+        "t_min": 170,
+        "png": "envelope/nominal_1700.png"
+      },
+      {
+        "t_min": 180,
+        "png": "envelope/nominal_1800.png"
+      },
+      {
+        "t_min": 190,
+        "png": "envelope/nominal_1900.png"
+      },
+      {
+        "t_min": 200,
+        "png": "envelope/nominal_2000.png"
+      },
+      {
+        "t_min": 210,
+        "png": "envelope/nominal_2100.png"
+      },
+      {
+        "t_min": 220,
+        "png": "envelope/nominal_2200.png"
+      },
+      {
+        "t_min": 230,
+        "png": "envelope/nominal_2300.png"
+      },
+      {
+        "t_min": 240,
+        "png": "envelope/nominal_2400.png"
+      }
+    ],
+    "slow20": [
+      {
+        "t_min": 0,
+        "png": "envelope/nominal_0000.png"
+      },
+      {
+        "t_min": 10,
+        "png": "envelope/nominal_0100.png"
+      },
+      {
+        "t_min": 20,
+        "png": "envelope/nominal_0200.png"
+      },
+      {
+        "t_min": 30,
+        "png": "envelope/nominal_0300.png"
+      },
+      {
+        "t_min": 40,
+        "png": "envelope/nominal_0400.png"
+      },
+      {
+        "t_min": 50,
+        "png": "envelope/nominal_0500.png"
+      },
+      {
+        "t_min": 60,
+        "png": "envelope/nominal_0600.png"
+      },
+      {
+        "t_min": 70,
+        "png": "envelope/nominal_0700.png"
+      },
+      {
+        "t_min": 80,
+        "png": "envelope/nominal_0800.png"
+      },
+      {
+        "t_min": 90,
+        "png": "envelope/nominal_0900.png"
+      },
+      {
+        "t_min": 95,
+        "png": "envelope/slow20_0950.png"
+      },
+      {
+        "t_min": 100,
+        "png": "envelope/slow20_1000.png"
+      },
+      {
+        "t_min": 110,
+        "png": "envelope/slow20_1100.png"
+      },
+      {
+        "t_min": 120,
+        "png": "envelope/slow20_1200.png"
+      },
+      {
+        "t_min": 130,
+        "png": "envelope/slow20_1300.png"
+      },
+      {
+        "t_min": 140,
+        "png": "envelope/slow20_1400.png"
+      },
+      {
+        "t_min": 150,
+        "png": "envelope/slow20_1500.png"
+      },
+      {
+        "t_min": 160,
+        "png": "envelope/slow20_1600.png"
+      },
+      {
+        "t_min": 170,
+        "png": "envelope/slow20_1700.png"
+      },
+      {
+        "t_min": 180,
+        "png": "envelope/slow20_1800.png"
+      },
+      {
+        "t_min": 190,
+        "png": "envelope/slow20_1900.png"
+      },
+      {
+        "t_min": 200,
+        "png": "envelope/slow20_2000.png"
+      },
+      {
+        "t_min": 210,
+        "png": "envelope/slow20_2100.png"
+      },
+      {
+        "t_min": 220,
+        "png": "envelope/slow20_2200.png"
+      },
+      {
+        "t_min": 230,
+        "png": "envelope/slow20_2300.png"
+      },
+      {
+        "t_min": 240,
+        "png": "envelope/slow20_2400.png"
+      }
+    ],
+    "dust": [
+      {
+        "t_min": 0,
+        "png": "envelope/nominal_0000.png"
+      },
+      {
+        "t_min": 10,
+        "png": "envelope/nominal_0100.png"
+      },
+      {
+        "t_min": 20,
+        "png": "envelope/nominal_0200.png"
+      },
+      {
+        "t_min": 30,
+        "png": "envelope/nominal_0300.png"
+      },
+      {
+        "t_min": 40,
+        "png": "envelope/nominal_0400.png"
+      },
+      {
+        "t_min": 50,
+        "png": "envelope/nominal_0500.png"
+      },
+      {
+        "t_min": 60,
+        "png": "envelope/nominal_0600.png"
+      },
+      {
+        "t_min": 70,
+        "png": "envelope/nominal_0700.png"
+      },
+      {
+        "t_min": 80,
+        "png": "envelope/nominal_0800.png"
+      },
+      {
+        "t_min": 90,
+        "png": "envelope/nominal_0900.png"
+      },
+      {
+        "t_min": 95,
+        "png": "envelope/dust_0950.png"
+      },
+      {
+        "t_min": 100,
+        "png": "envelope/dust_1000.png"
+      },
+      {
+        "t_min": 110,
+        "png": "envelope/dust_1100.png"
+      },
+      {
+        "t_min": 120,
+        "png": "envelope/dust_1200.png"
+      },
+      {
+        "t_min": 130,
+        "png": "envelope/dust_1300.png"
+      },
+      {
+        "t_min": 140,
+        "png": "envelope/dust_1400.png"
+      },
+      {
+        "t_min": 150,
+        "png": "envelope/dust_1500.png"
+      },
+      {
+        "t_min": 160,
+        "png": "envelope/dust_1600.png"
+      },
+      {
+        "t_min": 170,
+        "png": "envelope/dust_1700.png"
+      },
+      {
+        "t_min": 180,
+        "png": "envelope/dust_1800.png"
+      },
+      {
+        "t_min": 190,
+        "png": "envelope/dust_1900.png"
+      },
+      {
+        "t_min": 200,
+        "png": "envelope/dust_2000.png"
+      },
+      {
+        "t_min": 210,
+        "png": "envelope/dust_2100.png"
+      },
+      {
+        "t_min": 220,
+        "png": "envelope/dust_2200.png"
+      },
+      {
+        "t_min": 230,
+        "png": "envelope/dust_2300.png"
+      },
+      {
+        "t_min": 240,
+        "png": "envelope/dust_2400.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "habitat": {
+    "id": "hab",
+    "name": "居住舱",
+    "x": 121,
+    "y": 345
+  },
+  "waypoints": [
+    {
+      "id": "t1",
+      "name": "boxwork 脊线",
+      "x": 605,
+      "y": 542,
+      "dwell_min": 45,
+      "priority": 3,
+      "why": "观察 boxwork 脊线形态，比较轨道影像中交错脊的分布；古地下水胶结是该区域的科学解释，具体矿物需实地分析确认。",
+      "source": "https://www.jpl.nasa.gov/news/nasas-curiosity-mars-rover-starts-unpacking-boxwork-formations/"
+    },
+    {
+      "id": "t2",
+      "name": "沙场-平原接触带",
+      "x": 384,
+      "y": 297,
+      "dwell_min": 25,
+      "priority": 2,
+      "why": "比较深色风成沙与邻近较亮地面的形态，识别可能影响行走的沙地边界。",
+      "source": "https://science.nasa.gov/blog/sols-4541-4542-boxwork-structure-or-just-box-like-structure/"
+    },
+    {
+      "id": "t4",
+      "name": "脊地远景观察点",
+      "x": 804,
+      "y": 711,
+      "dwell_min": 20,
+      "priority": 1,
+      "why": "从另一位置观察 boxwork 脊地形态，核对轨道影像对脊线分布的判读。是否具有实际视野需实地验证。",
+      "source": "https://www.jpl.nasa.gov/news/nasas-curiosity-mars-rover-starts-unpacking-boxwork-formations/"
+    }
+  ]
+}

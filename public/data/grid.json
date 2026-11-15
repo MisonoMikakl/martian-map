@@ -1,0 +1,15 @@
+{
+  "width": 1000,
+  "height": 1000,
+  "res_m": 2.0,
+  "geotransform": [
+    8136952.9840849815,
+    2.0,
+    0.0,
+    -280471.3876593662,
+    0.0,
+    -2.0
+  ],
+  "crs_note": "IAU_2015:49910 — Mars (2015) - Sphere / Ocentric / Equirectangular, clon=0; PROJCRS[\"Mars (2015) - Sphere / Ocentric / Equirectangular, clon = 0\", BASEGEOGCRS[\"Mars (2015) - Sphere / Ocentric\", DATUM[\"Mars (2015) - Sphere\", ELLIPSOID[\"Mars (2015) - Sphere\", 3396190, 0]]], CONVERSION[\"Equidistant Cylindrical (Spherical)\"], CS[Cartesian,2], AXIS[\"easting\",east,metre], AXIS[\"northing\",north,metre]]",
+  "nodata": "NaN"
+}

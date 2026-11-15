@@ -1,0 +1,19 @@
+{
+  "scenarios": [
+    {
+      "id": "nominal",
+      "title": "按计划执行",
+      "json": "nominal.json"
+    },
+    {
+      "id": "slow20",
+      "title": "移动速度降低20%",
+      "json": "slow20.json"
+    },
+    {
+      "id": "dust",
+      "title": "尘暴缩短EVA预算",
+      "json": "dust.json"
+    }
+  ]
+}
